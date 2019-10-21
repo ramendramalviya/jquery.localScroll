@@ -1,10 +1,9 @@
 /*!
  * jQuery.localScroll
- * Copyright (c) 2007 Ariel Flesler - aflesler<a>gmail<d>com | https://github.com/flesler
+ * https://github.com/ramendramalviya
  * Licensed under MIT
- * http://flesler.blogspot.com/2007/10/jquerylocalscroll-10.html
- * @author Ariel Flesler
- * @version 2.0.0
+* @author Ram Malviya
+ * @version 1.0.1
  */
 ;(function(plugin) {
 	// AMD Support
