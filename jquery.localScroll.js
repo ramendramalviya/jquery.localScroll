@@ -1,10 +1,3 @@
-/*!
- * jQuery.localScroll
- * https://github.com/ramendramalviya
- * Licensed under MIT
-* @author Ram Malviya
- * @version 1.0.1
- */
 ;(function(plugin) {
 	// AMD Support
 	if (typeof define === 'function' && define.amd) {
